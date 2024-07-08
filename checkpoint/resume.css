@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+  }
+
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+
+  p {
+    color: #666;
+    margin: 20px 0;
+  }
+
+  ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+  }
+
+  ol li {
+    font-size: larger;
+    color: rgb(192, 25, 100);
+    margin: 20px 0;
+  }
+
+  figure {
+    margin: 10px 0;
+    text-align: center;
+  }
+
+  figure img {
+    max-width: 100%;
+    height: auto;
+  }
+  footer.main-footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  p.footer-text {
+    color: #666;
+  }
